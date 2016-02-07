@@ -1,0 +1,19 @@
+@font-face {
+	font-family: HelveticaNeue;
+	src: url(../fonts/HelveticaNeue.ttf);
+}
+
+@font-face {
+	font-family: ExistenceLight;
+	src: url(../fonts/Existence-Light.otf);
+}
+
+@font-face {
+	font-family: ExistenceStencilLight;
+	src: url(../fonts/Existence-StencilLight.otf);
+}
+
+@font-face {
+	font-family: ExistenceUnicaseLight;
+	src: url(../fonts/Existence-UnicaseLight.otf);
+}

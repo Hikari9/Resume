@@ -1,0 +1,68 @@
+/**
+ * Main stylesheet for Résumé document
+ * @author Rico Tiongson
+ */
+
+body {
+	background-color: white;
+	font-family: HelveticaNeue;
+}
+
+#site {
+	display: flex;
+	flex-flow: row nowrap;
+	align-items: stretch;
+	width: 800px;
+	height: 1200px;
+	margin-top: 15px;
+}
+
+.wrapper {
+	display: block;
+	margin: auto;
+	height: auto;
+	width: auto;
+}
+
+.aside {
+	text-align: center;
+	background-color: #5C509F;
+	color: white;
+	width: 250px;
+	height: 100%;
+	padding: 15px 0;
+}
+/*.glyphicon {
+	padding: 5px;
+	border: 1px solid white;
+	border-radius: 100%;
+}*/
+
+.aside-title {
+	font-family: ExistenceUnicaseLight;
+	font-size: 48px;
+	text-transform: uppercase;
+	margin: auto;
+	font-weight: bold;
+	line-height: 100%;
+	padding: 10px 20px 5px 20px;
+}
+
+.aside-title span {
+	display: inline-block;
+}
+
+.aside-tab {
+	font-family: ExistenceLight;
+	font-size: 20px;	
+	font-weight: bold;
+	padding: 5px 20px 3px 20px;
+	background-color: #303030;
+	margin: auto;
+	height: 35px;
+}
+
+.aside .glpyhicon {
+	color: white;
+}
+
